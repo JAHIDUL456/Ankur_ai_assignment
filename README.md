@@ -37,6 +37,8 @@ Demo admin login for testing:
 - Transactional booking (prevents overselling; checks and decrements seats atomically)
 - Seeded admin user and sample events
 - Admin-only tool to bulk update prices: `POST /api/tools/update-prices`
+- Fully Responsive
+- Minimal UI
 ---
 ## Pages & Routes (How It Works)
 - `/` Home: Landing page. If logged in, redirects to `/dashboard`.
